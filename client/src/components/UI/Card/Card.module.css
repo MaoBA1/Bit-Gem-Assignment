@@ -1,0 +1,7 @@
+.card {
+  box-shadow: 2px 5px 10px;
+  width: fit-content;
+  height: fit-content;
+  margin: 15rem auto;
+  border-radius: 15px;
+}

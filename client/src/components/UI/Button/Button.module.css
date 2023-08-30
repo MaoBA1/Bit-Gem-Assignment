@@ -1,0 +1,17 @@
+.button-container {
+  background-color: #afd1f3;
+  margin: 0 auto;
+  width: 80vh;
+  height: 30vh;
+  border-radius: 15px;
+}
+
+.button-container h1 {
+  font-weight: 900;
+  font-size: 50px;
+}
+
+.button-container:hover {
+  background-color: #c8def4;
+  color: rgb(84, 143, 209);
+}

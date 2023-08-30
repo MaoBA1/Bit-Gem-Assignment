@@ -1,0 +1,7 @@
+img {
+  max-width: 150vh;
+  max-height: 50vh;
+  object-fit: fill;
+  border-radius: 5px;
+  margin: 2rem;
+}

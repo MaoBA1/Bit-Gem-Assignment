@@ -1,0 +1,30 @@
+.image-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-container {
+  background-color: #979ba4;
+}
+
+.image-container section {
+  text-align: center;
+}
+
+.image-container button {
+  background-color: rgb(250, 6, 6);
+  color: #ffffff;
+  border: none;
+  width: 10vh;
+  height: 3vh;
+  border-radius: 10px;
+  font-weight: 700;
+  margin: 1rem;
+}
+
+.image-container button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}

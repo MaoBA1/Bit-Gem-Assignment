@@ -1,0 +1,17 @@
+.rgb-container {
+  min-width: 20vh;
+  text-align: center;
+  border-radius: 15px;
+  margin: 5px;
+}
+
+h3 {
+  color: #3937df;
+  font-weight: 900;
+}
+
+p {
+  color: #3a70dc;
+  font-weight: 600;
+  font-style: italic;
+}
